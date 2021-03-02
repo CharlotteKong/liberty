@@ -1,4 +1,4 @@
-package con.liberty;
+package com.liberty;
 
 import static org.junit.Assert.assertTrue;
 

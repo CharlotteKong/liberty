@@ -1,4 +1,4 @@
-package con.liberty;
+package com.liberty;
 
 /**
  * Hello world!
