@@ -4,33 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/../../ump/tem/ump-limit/ump-limit-biz/src/main/java/com/youzan/ump/limit/api/LimitPurchaseActivityQuotaServiceImpl.java" description=".batchGetQuota(LimitPurchaseUtil.getUnifiedLimitPu..." line="128" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bdc4c31-bb72-4fb9-b68c-c04f7263f553" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/md/image/io/ByteBuffer.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/md/image/io/IOmultiplex.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/md/image/io/NioEventLoopGroup.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/md/image/io/NioServerSocketChannel.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/md/image/io/NioSocketChannel.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/md/image/io/RoundRobin.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/md/image/io/ServerBootstrap.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/md/image/io/async.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/md/image/io/selector_uml.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/md/image/io/semaphore.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/md/image/io/sync.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/md/selector.md" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/image/io/ByteBuffer.png" afterPath="$PROJECT_DIR$/src/main/resources/md/image/io/ByteBuffer.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/image/io/IOmultiplex.png" afterPath="$PROJECT_DIR$/src/main/resources/md/image/io/IOmultiplex.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/image/io/NioEventLoopGroup.png" afterPath="$PROJECT_DIR$/src/main/resources/md/image/io/NioEventLoopGroup.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/image/io/NioServerSocketChannel.png" afterPath="$PROJECT_DIR$/src/main/resources/md/image/io/NioServerSocketChannel.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/image/io/NioSocketChannel.png" afterPath="$PROJECT_DIR$/src/main/resources/md/image/io/NioSocketChannel.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/image/io/RoundRobin.png" afterPath="$PROJECT_DIR$/src/main/resources/md/image/io/RoundRobin.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/image/io/ServerBootstrap.png" afterPath="$PROJECT_DIR$/src/main/resources/md/image/io/ServerBootstrap.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/image/io/async.png" afterPath="$PROJECT_DIR$/src/main/resources/md/image/io/async.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/image/io/selector_uml.png" afterPath="$PROJECT_DIR$/src/main/resources/md/image/io/selector_uml.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/image/io/semaphore.png" afterPath="$PROJECT_DIR$/src/main/resources/md/image/io/semaphore.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/image/io/sync.png" afterPath="$PROJECT_DIR$/src/main/resources/md/image/io/sync.png" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liberty/App.class" afterPath="$PROJECT_DIR$/target/classes/com/liberty/App.class" />
-    </list>
+    <list default="true" id="4bdc4c31-bb72-4fb9-b68c-c04f7263f553" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -202,32 +176,6 @@
               <item name="md" type="462c0819:PsiDirectoryNode" />
               <item name="image" type="462c0819:PsiDirectoryNode" />
               <item name="io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="liberty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liberty" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="liberty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liberty" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="liberty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liberty" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="liberty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liberty" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="liberty" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -401,12 +349,12 @@
       <workItem from="1615906373487" duration="5202000" />
       <workItem from="1615986278605" duration="66000" />
       <workItem from="1615986415594" duration="1461000" />
-      <workItem from="1615989185790" duration="913000" />
+      <workItem from="1615989185790" duration="1028000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15285000" />
+    <option name="totallyTimeSpent" value="15400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
