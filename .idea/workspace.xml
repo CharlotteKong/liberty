@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bdc4c31-bb72-4fb9-b68c-c04f7263f553" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/ByteBuffer.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/NioEventLoopGroup.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/NioServerSocketChannel流程图.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/五种IO模型.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/md/未参透/热点库存&amp;秒杀.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/md/image/io/ByteBuffer.png" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/io/ByteBuffer.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/md/image/io/IOmultiplex.png" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/io/IOmultiplex.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/md/image/io/NioEventLoopGroup.png" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/io/NioEventLoopGroup.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/md/image/io/NioServerSocketChannel.png" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/io/NioServerSocketChannel.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/md/image/io/NioSocketChannel.png" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/io/NioSocketChannel.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/md/image/io/RoundRobin.png" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/io/RoundRobin.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/md/image/io/ServerBootstrap.png" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/io/ServerBootstrap.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/md/image/io/async.png" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/io/async.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/md/image/io/selector_uml.png" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/io/selector_uml.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/md/image/io/semaphore.png" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/io/semaphore.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/md/image/io/sync.png" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/io/sync.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/md/selector.md" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/selector.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,23 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="NioServerSocketChannel流程图.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/md/netty/NioServerSocketChannel流程图.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="198">
-                <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -89,6 +58,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/md/netty/NioEventLoopGroup.md" />
         <option value="$PROJECT_DIR$/src/main/resources/md/netty/selector.md" />
         <option value="$PROJECT_DIR$/src/main/resources/md/netty/NioServerSocketChannel流程图.md" />
+        <option value="$PROJECT_DIR$/src/main/resources/md/netty/netty.md" />
       </list>
     </option>
   </component>
@@ -111,10 +81,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1440" />
-    <option name="width" value="2560" />
-    <option name="height" value="1440" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2051" />
+    <option name="y" value="212" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -174,17 +145,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="md" type="462c0819:PsiDirectoryNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="liberty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liberty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="md" type="462c0819:PsiDirectoryNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="未参透" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -211,11 +172,11 @@
       <recent name="com.liberty.selector" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/md/未参透" />
       <recent name="$PROJECT_DIR$/src/main/resources/md/netty" />
       <recent name="$PROJECT_DIR$/src/main/resources/image/io" />
       <recent name="$PROJECT_DIR$/src/main/resources/md" />
       <recent name="$PROJECT_DIR$/src/main/java/com/liberty/md" />
-      <recent name="$PROJECT_DIR$/src/main/resources/image" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -359,16 +320,15 @@
       <workItem from="1615906373487" duration="5202000" />
       <workItem from="1615986278605" duration="66000" />
       <workItem from="1615986415594" duration="1461000" />
-      <workItem from="1615989185790" duration="2598000" />
+      <workItem from="1615989185790" duration="3413000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16970000" />
+    <option name="totallyTimeSpent" value="17785000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="0" width="2560" height="1440" extended-state="0" />
-    <editor active="true" />
+    <frame x="2051" y="212" width="1440" height="877" extended-state="0" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -380,11 +340,11 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991952" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18507682" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32352942" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Word Book" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13979349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25178826" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -515,19 +475,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/md/netty/ByteBuffer.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="72">
-            <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/md/netty/NioEventLoopGroup.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -557,8 +504,60 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/md/netty/NioServerSocketChannel流程图.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="198">
-            <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <first_editor relative-caret-position="90">
+            <caret line="5" column="47" lean-forward="false" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/md/netty/netty.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="36">
+            <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/md/netty/ByteBuffer.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="72">
+            <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/md/未参透/热点库存&amp;秒杀.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
