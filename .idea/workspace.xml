@@ -4,7 +4,25 @@
     <bookmark url="file://$PROJECT_DIR$/../../ump/tem/ump-limit/ump-limit-biz/src/main/java/com/youzan/ump/limit/api/LimitPurchaseActivityQuotaServiceImpl.java" description=".batchGetQuota(LimitPurchaseUtil.getUnifiedLimitPu..." line="128" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bdc4c31-bb72-4fb9-b68c-c04f7263f553" name="Default" comment="" />
+    <list default="true" id="4bdc4c31-bb72-4fb9-b68c-c04f7263f553" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/ByteBuffer.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/NioEventLoopGroup.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/NioServerSocketChannel流程图.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/五种IO模型.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/md/image/io/ByteBuffer.png" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/io/ByteBuffer.png" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/md/image/io/IOmultiplex.png" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/io/IOmultiplex.png" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/md/image/io/NioEventLoopGroup.png" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/io/NioEventLoopGroup.png" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/md/image/io/NioServerSocketChannel.png" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/io/NioServerSocketChannel.png" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/md/image/io/NioSocketChannel.png" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/io/NioSocketChannel.png" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/md/image/io/RoundRobin.png" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/io/RoundRobin.png" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/md/image/io/ServerBootstrap.png" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/io/ServerBootstrap.png" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/md/image/io/async.png" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/io/async.png" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/md/image/io/selector_uml.png" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/io/selector_uml.png" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/md/image/io/semaphore.png" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/io/semaphore.png" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/md/image/io/sync.png" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/io/sync.png" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/md/selector.md" afterPath="$PROJECT_DIR$/src/main/resources/md/netty/selector.md" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +33,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="NioServerSocketChannel流程图.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/md/netty/NioServerSocketChannel流程图.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="198">
+                <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,6 +84,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/liberty/md/selector.md" />
         <option value="$PROJECT_DIR$/src/main/resources/image/io/selector.md" />
         <option value="$PROJECT_DIR$/src/main/resources/md/selector.md" />
+        <option value="$PROJECT_DIR$/src/main/resources/md/netty/五种IO模型.md" />
+        <option value="$PROJECT_DIR$/src/main/resources/md/netty/ByteBuffer.md" />
+        <option value="$PROJECT_DIR$/src/main/resources/md/netty/NioEventLoopGroup.md" />
+        <option value="$PROJECT_DIR$/src/main/resources/md/netty/selector.md" />
+        <option value="$PROJECT_DIR$/src/main/resources/md/netty/NioServerSocketChannel流程图.md" />
       </list>
     </option>
   </component>
@@ -73,8 +112,12 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="1440" />
+    <option name="width" value="2560" />
+    <option name="height" value="1440" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -114,40 +157,6 @@
               <item name="liberty" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="liberty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liberty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="liberty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liberty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="liberty" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="liberty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liberty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="liberty" type="462c0819:PsiDirectoryNode" />
-              <item name="selector" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="liberty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liberty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -165,7 +174,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="md" type="462c0819:PsiDirectoryNode" />
-              <item name="image" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="liberty" type="b2602c69:ProjectViewProjectNode" />
@@ -174,7 +183,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="md" type="462c0819:PsiDirectoryNode" />
-              <item name="image" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
               <item name="io" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -195,17 +204,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/resources/md" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.liberty.selector" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/md/netty" />
       <recent name="$PROJECT_DIR$/src/main/resources/image/io" />
       <recent name="$PROJECT_DIR$/src/main/resources/md" />
       <recent name="$PROJECT_DIR$/src/main/java/com/liberty/md" />
       <recent name="$PROJECT_DIR$/src/main/resources/image" />
-      <recent name="$PROJECT_DIR$/src/main" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -349,15 +359,16 @@
       <workItem from="1615906373487" duration="5202000" />
       <workItem from="1615986278605" duration="66000" />
       <workItem from="1615986415594" duration="1461000" />
-      <workItem from="1615989185790" duration="1028000" />
+      <workItem from="1615989185790" duration="2598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15400000" />
+    <option name="totallyTimeSpent" value="16970000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="1440" y="0" width="2560" height="1440" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -369,11 +380,11 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991952" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30592504" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18507682" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Word Book" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25178826" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13979349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -483,11 +494,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/md/selector.md">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/md/netty/五种IO模型.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <first_editor relative-caret-position="306">
+            <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/md/netty/ByteBuffer.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="72">
+            <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/md/netty/NioEventLoopGroup.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="36">
+            <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/md/netty/selector.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="933">
+            <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/md/netty/NioServerSocketChannel流程图.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="198">
+            <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
             <folding />
           </first_editor>
           <second_editor>
