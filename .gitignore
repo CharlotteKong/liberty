@@ -38,3 +38,6 @@ target/
 
 logs/
 *.versionsBackup
+
+
+/src/main/resources/md/项目
